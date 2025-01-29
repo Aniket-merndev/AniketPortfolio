@@ -1,0 +1,40 @@
+for updating anything 
+
+push updates in main 
+git add .
+git commit -m "message"
+git push
+
+
+for building and make website go live
+
+git checkout gh-pages 
+npm run build
+git add dist -f
+git commit -m "message"
+git subtree push --prefix dist origin gh-pages
+
+
+2nd time uploading myself all commands :
+
+git init
+git add .
+git commit -m "Initial commit"
+
+
+git remote add origin https://github.com/Aniket-merndev/AniketPortfolio.git
+git branch -M main  
+git push -u origin main 
+
+
+npm install gh-pages 
+
+
+npm run build  
+
+git config --global core.longpaths true
+
+npm run deploy 
+
+
+
