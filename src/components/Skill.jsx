@@ -99,7 +99,7 @@ import SkillCard from "./SkillCard";
     {
       imgSrc: 'images/Git.svg',
       label: 'Git',
-      desc: 'DevOps'
+      desc: 'Version Control'
     },
     {
       imgSrc: 'images/canva.svg',

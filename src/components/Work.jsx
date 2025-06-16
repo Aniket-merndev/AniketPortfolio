@@ -21,7 +21,7 @@ import ProjectCard from "./ProjectCard";
       imgSrc: 'images/traveltracker.png',
       title: 'Travel Tracker',
       tags: ['Node', 'Express','Pg'],
-      projectLink: 'https://travel-tracker-avdy.onrender.com/'
+      projectLink: 'https://travel-tracker-dojh.onrender.com'
     },
     {
       imgSrc: 'images/secrets.png',
